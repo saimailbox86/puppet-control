@@ -18,3 +18,4 @@ mod "garethr/docker",        '5.3.0'
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
+mod 'puppetlabs-ntp', '7.1.1'
